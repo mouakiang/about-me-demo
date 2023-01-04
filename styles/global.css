@@ -33,3 +33,27 @@ header .logo {
 main {
     padding: 20px;
 }
+
+#oliver {
+    max-width: 650px;
+}
+
+h1 {
+    color: rgb(30, 30, 187);
+    font-family: cursive;
+}
+
+h2 {
+    color: rgb(30, 30, 187);
+}
+
+p {
+    color: darkred;
+    font-family: cursive;
+}
+
+ul {
+    color: darkred;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial,
+        sans-serif;
+}
