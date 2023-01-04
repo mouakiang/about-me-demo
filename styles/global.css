@@ -33,3 +33,7 @@ header .logo {
 main {
     padding: 20px;
 }
+
+#oliver {
+    max-width: 500px;
+}
